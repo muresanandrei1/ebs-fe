@@ -1,0 +1,80 @@
+@import "./variables/colors";
+@import "./variables/fonts";
+@import "./base/reset";
+@import "./base/form";
+@import "./base/general";
+@import "./utilities/utilities";
+@import "./animations/animations";
+
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+.btn {
+  padding: 8px 16px;
+  background-color: $white;
+  color: $grey-dark;
+  font-weight: bolder;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  &:hover {
+    background-color: $grey-dark;
+    color: $white;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: white;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+.btn-dark {
+  background-color: $grey-dark;
+  color: $white;
+  &:hover {
+    background-color: $white;
+    color: $grey-dark;
+  }
+}
+
+.btn-submit {
+  padding: 16px 24px;
+}
+
+body {
+  font-family: "Roboto";
+  @media screen and (max-width: 520px) {
+    overflow-x: hidden;
+  }
+}
+
+.v-navigation-drawer {
+  z-index: 1000 !important;
+}
+
+.v-content__wrap {
+  background: $red;
+}
+
+a {
+  display: inline-block;
+}
+
+.v-input--checkbox label {
+  color: #fff !important;
+}
+
+.v-toolbar__side-icon {
+  .v-icon {
+    font-size: 40px;
+    align-self: center;
+    padding-top: 15px;
+  }
+}
