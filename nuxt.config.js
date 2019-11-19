@@ -7,7 +7,7 @@ module.exports = {
    */
   head: {
     titleTemplate: "%s - " + process.env.npm_package_name,
-    title: "Energy Branch Solutions",
+    title: "Energy Branching Solutions",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -21,7 +21,7 @@ module.exports = {
       {
         hid: "title",
         name: "title",
-        content: "Energy Branch Solutions"
+        content: "Energy Branching Solutions"
       }
     ],
     link: [
