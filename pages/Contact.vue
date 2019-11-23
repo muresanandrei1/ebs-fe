@@ -169,7 +169,6 @@ export default {
         apiCall("post", "/email/send", {
           ...payload,
           subject: this.subject,
-          email: "muresan.1andrei@gmail.com"
         })
           .then(rsp => {
             this.snackbar = true;

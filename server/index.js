@@ -61,7 +61,7 @@ async function start() {
 
       const mailOptions = {
         from: req.body.email, // sender address
-        to: "ebs.mailer@gmail.com", // list of receivers
+        to: "contact@e-b-s.ro", // list of receivers
         subject: req.body.subject, // Subject line
         html: output // plain text body
       };

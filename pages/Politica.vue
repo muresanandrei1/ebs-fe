@@ -15,14 +15,14 @@
           <h2>Cine suntem și cum ne puteți contacta</h2>
           <p>ENERGY BRANCHING SOLUTIONS SRL este persoană juridică de naționalitate română, având sediul social în Strada Unirii nr. 21, mun. Dej, jud. Cluj, ROMANIA cu cod unic de înregistrare fiscal 36656090, J12/347/2016 . În sensul legislației cu privire la protecția datelor, suntem operator atunci când prelucrăm datele dvs cu caracter personal.</p>
           <p>
-            <a href="mailto:raul.zanc@yahoo.com">raul.zanc@yahoo.com</a>, prin poștă sau curier la sediul firmei.
+            <a href="mailto:contact@e-b-s.ro">contact@e-b-s.ro</a>, prin poștă sau curier la sediul firmei.
             Întrucât suntem întotdeauna deschiși să aflăm opiniile dumneavoastră, precum și să vă furnizăm orice informații suplimentare de care ați putea avea nevoie cu privire la prelucrarea datelor dvs, vă încurajăm să contactați Responsabilul ENERGY BRANCHING SOLUTIONS SRL cu protecția datelor la adresa de e-mail
           </p>
           <h2>Ce categorii de date cu caracter personal prelucrăm</h2>
           <p>În general, colectăm datele dvs. cu caracter personal direct de la dumneavoastră, astfel încât aveți controlul asupra tipului de informație pe care ne-o oferiți. Cu titlul de exemplu, primim informații de la dvs. astfel:</p>
           <p>
             Când ne scrieti la
-            <a href="mailto:raul.zanc@yahoo.com">raul.zanc@yahoo.com</a> ne transmiteți: nume, adresa de e-mail.
+            <a href="mailto:contact@e-b-s.ro">contact@e-b-s.ro</a> ne transmiteți: nume, adresa de e-mail.
           </p>
           <p>Putem, de asemenea, să colectăm și să prelucrăm ulterior anumite informații cu privire la comportamentul dvs în timpul vizitării site-ului nostru web, pentru a vă personaliza experiența online și a vă pune la dispoziție oferte adaptate profilului dvs.</p>
           <p>Nu colectăm și nu prelucrăm în alt mod date sensibile, incluse de Regulamentul general privind protecția datelor în categorii speciale de date cu caracter personal. De asemenea, nu dorim să colectăm sau să prelucrăm date ale minorilor care nu au împlinit varsta de 16 ani.</p>
@@ -147,7 +147,7 @@
           <ul>
             <li>
               prin e-mail la adresa:
-              <a href="mailto:raul.zanc@yahoo.com">raul.zanc@yahoo.com</a>,
+              <a href="mailto:contact@e-b-s.ro">contact@e-b-s.ro</a>,
             </li>
             <li>telefon 0727.846.603</li>
             <li>sau prin poștă sau curier la sediul firmei – cu mentiunea în atenția Responsabilului ENERGY BRANCHING SOLUTIONS SRL cu protecția datelor.</li>

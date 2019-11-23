@@ -19,8 +19,8 @@ var transporter = nodemailer.createTransport({
 app.post("/", (req, res) => {
   const mailBody = req.body.body;
   const mailOptions = {
-    from: "ebs.mailer@gmail.com", // sender address
-    to: "ebs.mailer@gmail.com", // list of receivers
+    from: "contact@e-b-s.ro", // sender address
+    to: "contact@e-b-s.ro", // list of receivers
     subject: req.body.subject, // Subject line
     html: mailBody // plain text body
   };

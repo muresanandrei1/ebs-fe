@@ -12,7 +12,7 @@
               </p>
               <p>
                 E-mail:
-                <a href="mailto:raul.zanc@yahoo.com">raul.zanc@yahoo.com</a>
+                <a href="mailto:contact@e-b-s.ro">contact@e-b-s.ro</a>
               </p>
             </v-flex>
             <v-flex md4 mr-4 xs12 class="mobile-no-padding">
