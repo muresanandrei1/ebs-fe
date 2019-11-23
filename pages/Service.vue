@@ -8,7 +8,7 @@
     </div>
     <div>
       <v-container pt-3>
-        <h2>Service - Proiectare</h2>
+        <h2>Servicii - Proiectare</h2>
         <v-divider color="white" />
       </v-container>
     </div>
@@ -85,7 +85,7 @@
     </div>
     <div>
       <v-container pt-3>
-        <h2>Service - Executie</h2>
+        <h2>Servicii - Executie</h2>
         <v-divider color="white" />
       </v-container>
     </div>

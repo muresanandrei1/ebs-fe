@@ -27,20 +27,20 @@
               </p>
             </v-flex>
             <v-flex class="footer-image" md2>
-              <v-img :src="anre" max-width="80" max-height="70" />
+              <v-img :src="anre" max-width="60" max-height="50" />
               <p style="padding-top: 8px;">Atestat ANRE</p>
               <p>Atestat B, Atestat C1A</p>
             </v-flex>
             <v-flex class="footer-image" md1>
-              <v-img :src="iso" max-width="70" max-height="70" />
+              <v-img :src="iso" max-width="50" max-height="50" />
               <p style="padding-top: 8px;">
                 Certificat
                 <br />ISO 9001
               </p>
             </v-flex>
-            <v-flex class="footer-image" md1>
+            <v-flex class="footer-image" md1 ml-4>
               <a href="https://www.facebook.com/Energy-Branching-Solutions-2289881701064037/">
-                <v-img :src="fb" max-width="70" max-height="70" />
+                <v-img :src="fb" max-width="50" max-height="50" />
               </a>
             </v-flex>
           </v-layout>
@@ -51,7 +51,14 @@
         </v-flex>
         </v-layout>-->
       </v-container>
-      <v-layout class="bottom-footer" row align-center pb-4 justify-center>
+      <v-layout
+        class="bottom-footer"
+        row
+        align-center
+        pb-4
+        justify-center
+        v-if="this.$route.name === 'Contact'"
+      >
         <p class="px-2">&copy; Energy branching solutions</p>
         <router-link to="/politica" class="px-2">Politica de confidentialitate</router-link>
       </v-layout>
@@ -65,7 +72,10 @@ export default {
     anre: require("../assets/anre.png"),
     iso: require("../assets/iso.png"),
     fb: require("../assets/fb.png")
-  })
+  }),
+  mounted() {
+    console.log(this.$route);
+  }
 };
 </script>
 <style lang="scss" scoped>
@@ -85,7 +95,7 @@ export default {
     margin-right: auto;
   }
   p {
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
   }
 }
