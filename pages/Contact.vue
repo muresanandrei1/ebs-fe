@@ -162,13 +162,11 @@ export default {
       this.$v.$touch();
       if (!this.$v.$invalid) {
         const payload = {
-          comanda: this.comanda,
-          masina: this.car,
           body: this.clientMail()
         };
         apiCall("post", "/email/send", {
           ...payload,
-          subject: this.subject,
+          subject: this.subject
         })
           .then(rsp => {
             this.snackbar = true;

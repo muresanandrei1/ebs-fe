@@ -47,7 +47,8 @@ module.exports = {
    */
   plugins: [
     { src: "~plugins/datepicker", ssr: false },
-    { src: "~plugins/vuelidate" }
+    { src: "~plugins/vuelidate" },
+    { src: "~plugins/ga.js", mode: "client" }
   ],
   /*
    ** Nuxt.js modules
